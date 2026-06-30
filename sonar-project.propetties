@@ -1,0 +1,6 @@
+sonar.projectKey=Harsha120903_sonarqube-demo
+sonar.organization=harsha120903
+
+sonar.sources=src
+
+sonar.sourceEncoding=UTF-8
