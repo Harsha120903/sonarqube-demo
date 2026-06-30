@@ -11,6 +11,66 @@ function App() {
     <>
       <section id="center">
         <div className="hero">
+          <div>
+  <h1>Dashboard</h1>
+  <p>Welcome to our application.</p>
+  <button>Login</button>
+  <button>Register</button>
+  <button>Logout</button>
+  <button>Settings</button>
+  <button>Profile</button>
+  <button>Reports</button>
+  <button>Analytics</button>
+  <button>Help</button>
+</div>
+<div>
+  <h1>Dashboard</h1>
+  <p>Welcome to our application.</p>
+  <button>Login</button>
+  <button>Register</button>
+  <button>Logout</button>
+  <button>Settings</button>
+  <button>Profile</button>
+  <button>Reports</button>
+  <button>Analytics</button>
+  <button>Help</button>
+</div>
+<div>
+  <h1>Dashboard</h1>
+  <p>Welcome to our application.</p>
+  <button>Login</button>
+  <button>Register</button>
+  <button>Logout</button>
+  <button>Settings</button>
+  <button>Profile</button>
+  <button>Reports</button>
+  <button>Analytics</button>
+  <button>Help</button>
+</div>
+<div>
+  <h1>Dashboard</h1>
+  <p>Welcome to our application.</p>
+  <button>Login</button>
+  <button>Register</button>
+  <button>Logout</button>
+  <button>Settings</button>
+  <button>Profile</button>
+  <button>Reports</button>
+  <button>Analytics</button>
+  <button>Help</button>
+</div>
+<div>
+  <h1>Dashboard</h1>
+  <p>Welcome to our application.</p>
+  <button>Login</button>
+  <button>Register</button>
+  <button>Logout</button>
+  <button>Settings</button>
+  <button>Profile</button>
+  <button>Reports</button>
+  <button>Analytics</button>
+  <button>Help</button>
+</div>
           <img src={heroImg} className="base" width="170" height="179" alt="" />
           <img src={reactLogo} className="framework" alt="React logo" />
           <img src={viteLogo} className="vite" alt="Vite logo" />
@@ -21,12 +81,7 @@ function App() {
             Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
           </p>
         </div>
-        <div>
-          <h1>Get started</h1>
-          <p>
-            Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
-          </p>
-        </div>
+       
         <button
           type="button"
           className="counter"
